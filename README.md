@@ -1,5 +1,9 @@
 # Clean Code
 
+![Clean Code](https://github.com/chunjr1/clean_code/assets/37570034/82496c6f-961f-4a73-bf96-c27f2396274c)
+
+
+## 
 Assignment 1  📚 책 인증 (금) ✔️
 
 Assignment 2  📚 추천사 ~ 1장 깨끗한 코드 | TIL (토)
@@ -31,3 +35,4 @@ Assignment 13 📚 10장 클래스 | TIL (일,월)
 Assignment 14 🔥 복습 | 실전 적용 미션 (화,수)
 
 Assignment 15 🔥 복습 | 최종 미션 (목)
+
