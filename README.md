@@ -1,6 +1,6 @@
 # Clean Code
 
-![Clean Code](https://github.com/chunjr1/clean_code/assets/37570034/82496c6f-961f-4a73-bf96-c27f2396274c)
+![clean_code](https://github.com/chunjr1/clean_code/assets/37570034/a996f869-5838-48e1-b46a-86f7f9768794)
 
 
 ## 
