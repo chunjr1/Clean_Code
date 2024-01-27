@@ -2,7 +2,7 @@
 
 Assignment 1   📚 책 인증 (금) ✔️
 
-Assignment 2   📚 추천사 ~ 1장 깨끗한 코드 | TIL (토)
+Assignment 2   📚 추천사 ~ 1장 깨끗한 코드 | TIL (토) ✔️
 
 Assignment 3   📚 2장 의미있는 이름 | TIL, 인증 미션 (일)
 
