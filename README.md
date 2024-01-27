@@ -33,4 +33,4 @@ Assignment 14  🔥 복습 | 실전 적용 미션 (화,수)
 Assignment 15  🔥 복습 | 최종 미션 (목)
 
 ## 
-![clean_code](https://github.com/chunjr1/clean_code/assets/37570034/a996f869-5838-48e1-b46a-86f7f9768794)
+![clean_code_img](https://github.com/chunjr1/clean_code/assets/37570034/e79e87dd-7077-4be8-96af-d09ccb0b9ac2)
