@@ -4,9 +4,9 @@ Assignment 1   📚 책 인증 (금) ✔️
 
 Assignment 2   📚 추천사 ~ 1장 깨끗한 코드 | TIL (토) ✔️
 
-Assignment 3   📚 2장 의미있는 이름 | TIL, 인증 미션 (일)
+Assignment 3   📚 2장 의미있는 이름 | TIL, 인증 미션 (일) ✔️
 
-Assignment 4   📚 3장 함수 | TIL (월,화)
+Assignment 4   📚 3장 함수 | TIL (월,화) ✔️
 
 Assignment 5   📚 4장 주석 | TIL, 최애틸 미션 (수,목)
 
