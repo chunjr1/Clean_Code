@@ -8,12 +8,12 @@ Assignment 3   📚 2장 의미있는 이름 | TIL, 인증 미션 (일) ✔️
 
 Assignment 4   📚 3장 함수 | TIL (월,화) ✔️
 
-Assignment 5   📚 4장 주석 | TIL, 최애틸 미션 (수,목)
+Assignment 5   📚 4장 주석 | TIL, 최애틸 미션 (수,목) ✔️
 
 
-Assignment 6   🔥 복습 | 실전 적용 미션 (금)
+Assignment 6   🔥 복습 | 실전 적용 미션 (금) ✔️
 
-Assignment 7   📚 5장 형식 맞추기 | TIL (토)
+Assignment 7   📚 5장 형식 맞추기 | TIL (토) 
 
 Assignment 8   📚 6장 객체와 자료구조 | TIL (일)
 
