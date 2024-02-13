@@ -26,7 +26,7 @@ Assignment 11  📚 9장 단위 테스트 | TIL, 최애틸 미션 (목,금) ✔�
 
 Assignment 12  🙋🏻 복습 | 퀴즈 (토) ✔️
 
-Assignment 13  📚 10장 클래스 | TIL (일,월)
+Assignment 13  📚 10장 클래스 | TIL (일,월) ✔️
 
 Assignment 14  🔥 복습 | 실전 적용 미션 (화,수)
 
